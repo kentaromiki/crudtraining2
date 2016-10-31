@@ -1,0 +1,9 @@
+New log file opened at Sat Oct 29 10:15:43 JST 2016 by 3564@ken
+Sending msg to client play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: C:\play\activator-1.3.12-minimal\bin\crudtraining2\.sbtserver\connections\master.log))
+Sending msg to client play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: C:\play\activator-1.3.12-minimal\bin\crudtraining2\.sbtserver\master.log))
+Sending msg to client play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df: DetachedLogEvent(LogMessage(debug,sbt client logs are in: C:\play\activator-1.3.12-minimal\bin\crudtraining2\.sbtserver\connections\play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df.log))
+Reading next message from client.
+Client play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df closed, java.net.SocketException: Connection reset, shutting down
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df
+Client play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df thread exiting.

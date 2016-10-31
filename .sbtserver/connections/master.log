@@ -1,0 +1,13 @@
+New log file opened at Sat Oct 29 10:15:43 JST 2016 by 3564@ken
+Taking next connection to: 56348
+New client attempting to connect on port: 56349-56348
+  Address = /192.168.100.100:56348
+This client on port 56349 has uuid ddb36c39-a18b-4742-aa2a-2239126b48df configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-ddb36c39-a18b-4742-aa2a-2239126b48df
+Taking next connection to: 56348
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 3564@ken logs at Sat Oct 29 10:18:43 JST 2016, goodbye.
